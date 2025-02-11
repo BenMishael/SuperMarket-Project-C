@@ -3,6 +3,12 @@
 ## Overview
 The **Supermarket Management System** is a comprehensive, C-based application designed to efficiently manage supermarket operations. It includes features for product inventory management, customer tracking, shopping cart operations, and file handling. The system supports both compressed and uncompressed file storage formats to enhance data management and persistence.
 
+## Screenshots
+
+[<img src="screenshots/Screenshot_1.jpg" width="250"/>](#)
+[<img src="screenshots/Screenshot_2.jpg" width="250"/>](#)
+[<img src="screenshots/args_screenshot.jpg" width="250"/>](#)
+
 ## Features
 ### **Product Management**
 - Add and update products
