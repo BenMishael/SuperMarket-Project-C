@@ -3,6 +3,9 @@
 ## Overview
 The **Supermarket Management System** is a comprehensive, C-based application designed to efficiently manage supermarket operations. It includes features for product inventory management, customer tracking, shopping cart operations, and file handling. The system supports both compressed and uncompressed file storage formats to enhance data management and persistence.
 
+## Demo Video
+Watch the demo video of the project here: [YouTube Link](https://youtu.be/8bLR7oVUjfo)
+
 ## Screenshots
 
 [<img src="screenshots/Screenshot_1.jpg" width="250"/>](#)
@@ -133,11 +136,4 @@ The project is structured into several modular components for better maintainabi
 ## Authors
 - **Yuval Zaltsman**
 - **Ben Mishael**
-
-## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-This README provides a detailed yet concise overview of the project, making it easier for users and contributors to understand the functionality and implementation of the **Supermarket Management System**.
-
 
